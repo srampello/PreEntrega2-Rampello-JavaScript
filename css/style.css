@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+html {
+    height: 100%;
+}
+
+body{
+    background: linear-gradient(lightblue, white);
+    width: 375px;
+    padding: 5px;
+    margin: auto;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+}
+
+header img{
+    display: block;
+    margin: auto;
+    width: 100px;
+}
+
+main div{
+    display: flex;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
